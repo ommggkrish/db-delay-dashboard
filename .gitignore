@@ -1,0 +1,16 @@
+# Virtual environment (rebuild with: pip install -r requirements.txt)
+.venv/
+
+# Raw data files: too large for GitHub, downloaded from Hugging Face instead
+data/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Streamlit secrets (never commit passwords or keys)
+.streamlit/secrets.toml
+
+# Editor / OS clutter
+.vscode/
+Thumbs.db
