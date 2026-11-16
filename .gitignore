@@ -14,3 +14,5 @@ __pycache__/
 # Editor / OS clutter
 .vscode/
 Thumbs.db
+# DuckDB temporary spill files
+.tmp/
