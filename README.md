@@ -3,7 +3,7 @@
 An interactive dashboard that analyses **172.5 million train stops** at **5,428 German stations**
 over one full year (Nov 2025 – Oct 2026), built with Python, DuckDB SQL and Streamlit.
 
-**▶ Live demo:** [db-delay-dashboard.streamlit.app](https://db-delay-dashboard-jx3rartsy7emodj5wfsduu.streamlit.app)
+**▶ Live demo:** [Open the dashboard](https://db-delay-dashboard-jx3rartsy7emodj5wfsduu.streamlit.app)
 
 ![Dashboard overview](docs/overview.png)
 
